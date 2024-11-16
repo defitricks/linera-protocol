@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ScyllaDbStoreError"],"struct":["ScyllaDbStoreInternal","ScyllaDbStoreInternalConfig"],"type":["ScyllaDbStore","ScyllaDbStoreConfig"]};
